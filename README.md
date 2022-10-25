@@ -1,6 +1,6 @@
 ### Olá 👋
 
-### Eu sou o Ricardo Rodrigues ! 
+### Eu sou o Ricardo José Rodrigues ! 
 
 ### Bem vindo ao meu perfil no GitHub 👋
 <!-- Apresentação -->
